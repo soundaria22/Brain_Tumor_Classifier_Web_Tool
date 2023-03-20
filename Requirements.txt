@@ -1,7 +1,0 @@
-Python – 3.x
-TensorFlow – 2.4.1
-Keras – 2.4.0
-Numpy – 1.19.2
-Scikit-learn – 0.24.1
-Matplotlib – 3.3.4
-OpenCV – 4.5.2
